@@ -1,3 +1,3 @@
-# Chrome Extension demo for tutorial
+# Chrome Extension demo for [How to Make a Chrome Extension – a Browser Plugin Development Tutorial](https://www.freecodecamp.org/news/chrome-extension-with-parcel-tailwind/)
 
-Tutorial coming soon…
+Tutorial & instructions are available on FreeCodeCamp News: [How to Make a Chrome Extension – a Browser Plugin Development Tutorial](https://www.freecodecamp.org/news/chrome-extension-with-parcel-tailwind/)
